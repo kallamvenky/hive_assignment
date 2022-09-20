@@ -1,0 +1,5 @@
+To run the code
+Running environment is AWS
+
+sh load.sh
+sh analytics.sh
